@@ -1,6 +1,6 @@
 package com.websystique.springmvc.model;
 
-public class User {
+public class UserController {
 
 	private long id;
 	
